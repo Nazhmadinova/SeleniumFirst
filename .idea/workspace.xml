@@ -2,68 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a512d662-1dc2-469a-860c-1e2c2e8d36f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Alerts/FirstEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Dropdown/FirstEX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Dropdown/MultipleSelectDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Dropdown/NonSelectDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Dropdown/SelectingDateVerifying.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Fakerr/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Iframes/FirstEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Locators/Xpath/AddRemoveElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Locators/Xpath/ChechboxCheckAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Locators/Xpath/Checkbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Locators/Xpath/EtsyCheckbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Locators/Xpath/ForgotPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Locators/Xpath/NumberOfElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Locators/Xpath/OrderPlacing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Locators/Xpath/OrderVerify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Locators/Xpath/PrintingTextsOfElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Locators/Xpath/SearchEtsyXpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Locators/Xpath/SmartbearSoftware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Locators/Xpath/TestingSmartBearPrintNameCity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Locators/Xpath/TestingSmartBearVeryFyName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Locators/cssSelector/SearchAmazonCSS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Mafiya/Mafiya.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Mafiya/Mafiya1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/DependenciesTestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/FirstTestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/OrderOfThings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/SmartBearDeleteAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/SmartBearRemoveName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/SmartBearRemovingChangingNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Vytrack/CalendarEvents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Vytrack/CreateCalendarEventDropdownTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Vytrack/LogCallButtonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Vytrack/Scrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Vytrack/VerifyDefaultFieldsforCreateCalendarEventsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WindowHandles/Ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/SeleniumUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/VytrackUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Actions/AmazonTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Actions/ContextRightClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Actions/DoubleClickChangingColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Actions/HoverTestDragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Actions/PracticeCybertekHoverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ReviewOfUtilities/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ReviewOfUtilities/ReviewFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/HardAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/VytrackLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/frameworkEx/DriverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/frameworkEx/PropertiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/frameworkEx/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/frameworkEx/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjectModelTests/smartBearTest/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjectModelTests/vytrack/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AmazonePages/AmazonLandingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/practiceCybertekPages/DynamicLoading1Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/practiceCybertekPages/DynamicLoading2Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/practiceCybertekPages/DynamicLoadingPageElements1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/practiceCybertekPages/DynamicallyLoadedPageElements5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/practiceCybertekPages/HoversPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/smartBearSoftwarePages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/vytrack_pages/VytrackLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/synchronization_tests/DynamicLoadingPageElements1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/synchronization_tests/DynamicallyLoadedPageElements5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/synchronization_tests/ExplicitWaitTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/synchronization_tests/ImplicitWaitTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/synchronization_tests/ThreadSleepTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/AppleSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locators/AppleSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/BackAndForthNavigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locators/BackAndForthNavigation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/BasicAuthenticationZeroBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locators/BasicAuthenticationZeroBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/EnterUsername.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locators/EnterUsername.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/EtsyTitleVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locators/EtsyTitleVerification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/GoogleAttributeValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locators/GoogleAttributeValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/GoogleGetText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locators/GoogleGetText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/HerokuApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locators/HerokuApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/Kino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locators/Kino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/ZeroBankHeaderVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locators/ZeroBankHeaderVerification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/AppleSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/BackAndForthNavigation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/BasicAuthenticationZeroBank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/CybertekAndChrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/CybertekAndChrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/EnterUsername.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/EtsyTitleVerification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/FirstSeleniumClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/FirstSeleniumClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/GoogleAttributeValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/GoogleGetText.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/HerokuApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Kino.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/ZeroBankHeaderVerification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Iframes/FirstEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Iframes/FirstEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Vytrack/Scrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Vytrack/DateAndTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Vytrack/VerifyDefaultFieldsforCreateCalendarEventsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Vytrack/VerifyDefaultFieldsforCreateCalendarEventsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WindowHandles/Ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WindowHandles/Ex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestNG/FirstTestNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestNG/FirstTestNG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Vytrack/Scrap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Vytrack/VerifyDefaultFieldsforCreateCalendarEventsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Vytrack/VerifyDefaultFieldsforCreateCalendarEventsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/WindowHandles/Ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/WindowHandles/Ex.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +80,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,18 +94,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.FirstTestNG.firstTest">
-    <configuration name="Ex.windowHandlingTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.HoverTestDragAndDrop.dragAndDrop">
+    <configuration name="ContextRightClick.clickAlert" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WindowHandles.*" />
+          <option name="PATTERN" value="Actions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="WindowHandles" />
-      <option name="MAIN_CLASS_NAME" value="WindowHandles.Ex" />
-      <option name="METHOD_NAME" value="windowHandlingTest" />
+      <option name="PACKAGE_NAME" value="Actions" />
+      <option name="MAIN_CLASS_NAME" value="Actions.ContextRightClick" />
+      <option name="METHOD_NAME" value="clickAlert" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -133,17 +113,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstEx.jSAlert" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DoubleClickChangingColor.colorTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Alerts.*" />
+          <option name="PATTERN" value="Actions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Alerts" />
-      <option name="MAIN_CLASS_NAME" value="Alerts.FirstEx" />
-      <option name="METHOD_NAME" value="jSAlert" />
+      <option name="PACKAGE_NAME" value="Actions" />
+      <option name="MAIN_CLASS_NAME" value="Actions.DoubleClickChangingColor" />
+      <option name="METHOD_NAME" value="colorTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -151,17 +131,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstEx.jSPrompt" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DynamicLoadingPageElements1Test.elements1Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Alerts.*" />
+          <option name="PATTERN" value="synchronization_tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Alerts" />
-      <option name="MAIN_CLASS_NAME" value="Alerts.FirstEx" />
-      <option name="METHOD_NAME" value="jSPrompt" />
+      <option name="PACKAGE_NAME" value="synchronization_tests" />
+      <option name="MAIN_CLASS_NAME" value="synchronization_tests.DynamicLoadingPageElements1Test" />
+      <option name="METHOD_NAME" value="elements1Test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -169,17 +149,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstEx.textAssert" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DynamicallyLoadedPageElements5Test.elements5" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Iframes.*" />
+          <option name="PATTERN" value="synchronization_tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Iframes" />
-      <option name="MAIN_CLASS_NAME" value="Iframes.FirstEx" />
-      <option name="METHOD_NAME" value="textAssert" />
+      <option name="PACKAGE_NAME" value="synchronization_tests" />
+      <option name="MAIN_CLASS_NAME" value="synchronization_tests.DynamicallyLoadedPageElements5Test" />
+      <option name="METHOD_NAME" value="elements5" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -187,17 +167,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTestNG.firstTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HoverTestDragAndDrop.dragAndDrop" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestNG.*" />
+          <option name="PATTERN" value="Actions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TestNG" />
-      <option name="MAIN_CLASS_NAME" value="TestNG.FirstTestNG" />
-      <option name="METHOD_NAME" value="firstTest" />
+      <option name="PACKAGE_NAME" value="Actions" />
+      <option name="MAIN_CLASS_NAME" value="Actions.HoverTestDragAndDrop" />
+      <option name="METHOD_NAME" value="dragAndDrop" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -207,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FirstTestNG.firstTest" />
-        <item itemvalue="TestNG.Ex.windowHandlingTest" />
-        <item itemvalue="TestNG.FirstEx.textAssert" />
-        <item itemvalue="TestNG.FirstEx.jSAlert" />
-        <item itemvalue="TestNG.FirstEx.jSPrompt" />
+        <item itemvalue="TestNG.HoverTestDragAndDrop.dragAndDrop" />
+        <item itemvalue="TestNG.ContextRightClick.clickAlert" />
+        <item itemvalue="TestNG.DoubleClickChangingColor.colorTest" />
+        <item itemvalue="TestNG.DynamicallyLoadedPageElements5Test.elements5" />
+        <item itemvalue="TestNG.DynamicLoadingPageElements1Test.elements1Test" />
       </list>
     </recent_temporary>
   </component>

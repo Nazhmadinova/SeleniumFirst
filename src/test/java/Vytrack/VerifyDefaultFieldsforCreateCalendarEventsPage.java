@@ -56,7 +56,7 @@ public class VerifyDefaultFieldsforCreateCalendarEventsPage {
             }
 
         SeleniumUtils.pause(2);
-         String defaultStartDateField = driver.findElement(By.xpath("//input[@class='input-small datepicker-input start hasDatepicker']")).getText();
+         String defaultStartDateField = driver.findElement(By.xpath("//input[@class='input-small datepicker-input start hasDatepicker']")).getAttribute("value");
         System.out.println(defaultStartDateField);
          if(defaultStartDateField.equals(currentDate)){
              System.out.println("Start date field passed");
@@ -65,7 +65,7 @@ public class VerifyDefaultFieldsforCreateCalendarEventsPage {
          }
 
         SeleniumUtils.pause(2);
-         String defaultStartTimeField = driver.findElement(By.xpath("(//input[@placeholder='time'])[1]")).getText();
+         String defaultStartTimeField = driver.findElement(By.xpath("(//input[@placeholder='time'])[1]")).getAttribute("value");
 
         System.out.println(defaultStartTimeField);
 

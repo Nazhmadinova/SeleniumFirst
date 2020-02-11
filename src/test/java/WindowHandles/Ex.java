@@ -42,6 +42,7 @@ public class Ex {
         WebElement clickHereLink = driver.findElement(By.linkText("Click Here"));
         clickHereLink.click();
 
+
         for(String handle: driver.getWindowHandles()){
             if(!handle.equals(mainHandle)){
                 driver.switchTo().window(handle);

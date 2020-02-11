@@ -37,7 +37,7 @@ public class FirstEx {
     public void textAssert(){
 
         driver.switchTo().frame(0);
-        //driver.switchTo().frame("mce_0_ifr");
+        //driver.switchTo().frame("mce_0_ifr"); // iframe id value
         WebElement innerFrameParagraph = driver.findElement(By.xpath("//body[@id='tinymce']/p"));
 
         Assert.assertEquals(innerFrameParagraph.getText(),"Your content goes here.","msg different and Failed");
