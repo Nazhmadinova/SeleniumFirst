@@ -2,48 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a512d662-1dc2-469a-860c-1e2c2e8d36f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Actions/AmazonTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Actions/ContextRightClick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Actions/DoubleClickChangingColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Actions/HoverTestDragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Actions/PracticeCybertekHoverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ReviewOfUtilities/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ReviewOfUtilities/ReviewFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/HardAssertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/VytrackLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/frameworkEx/DriverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/frameworkEx/PropertiesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/frameworkEx/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/frameworkEx/SingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjectModelTests/smartBearTest/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjectModelTests/vytrack/LoginTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AmazonePages/AmazonLandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/practiceCybertekPages/DynamicLoading1Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/practiceCybertekPages/DynamicLoading2Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/practiceCybertekPages/DynamicLoadingPageElements1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/practiceCybertekPages/DynamicallyLoadedPageElements5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/practiceCybertekPages/HoversPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/smartBearSoftwarePages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/vytrack_pages/VytrackLoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/synchronization_tests/DynamicLoadingPageElements1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/synchronization_tests/DynamicallyLoadedPageElements5Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/synchronization_tests/ExplicitWaitTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/synchronization_tests/ImplicitWaitTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/synchronization_tests/ThreadSleepTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Iframes/FirstEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Iframes/FirstEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Vytrack/Scrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Vytrack/DateAndTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Vytrack/VerifyDefaultFieldsforCreateCalendarEventsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Vytrack/VerifyDefaultFieldsforCreateCalendarEventsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/WindowHandles/Ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WindowHandles/Ex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestNG/FirstTestNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestNG/FirstTestNG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Vytrack/Scrap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Vytrack/VerifyDefaultFieldsforCreateCalendarEventsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Vytrack/VerifyDefaultFieldsforCreateCalendarEventsPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/WindowHandles/Ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/WindowHandles/Ex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Actions/DoubleClickChangingColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Actions/DoubleClickChangingColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Fakerr/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Fakerr/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Locators/Xpath/OrderPlacing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locators/Xpath/SmartBearOrderPlacing.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

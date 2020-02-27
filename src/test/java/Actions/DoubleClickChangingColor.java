@@ -20,6 +20,7 @@ public class DoubleClickChangingColor {
 
         Driver.getDriver().get("https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_ev_ondblclick2");
         Driver.getDriver().switchTo().frame("iframeResult");
+
         WebElement element = Driver.getDriver().findElement(By.xpath("//p[@id='demo']"));
 
         Actions actions = new Actions(Driver.getDriver());
