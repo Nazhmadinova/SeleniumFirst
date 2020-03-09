@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a512d662-1dc2-469a-860c-1e2c2e8d36f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/JSExecuter/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Actions/DoubleClickChangingColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Actions/DoubleClickChangingColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Fakerr/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Fakerr/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Locators/Xpath/OrderPlacing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locators/Xpath/SmartBearOrderPlacing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Actions/DoubleClickChangingColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Actions/DoubleClickChangingColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Fakerr/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Fakerr/Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Locators/Xpath/OrderPlacing.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,79 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.HoverTestDragAndDrop.dragAndDrop">
-    <configuration name="ContextRightClick.clickAlert" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Actions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Actions" />
-      <option name="MAIN_CLASS_NAME" value="Actions.ContextRightClick" />
-      <option name="METHOD_NAME" value="clickAlert" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoubleClickChangingColor.colorTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Actions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Actions" />
-      <option name="MAIN_CLASS_NAME" value="Actions.DoubleClickChangingColor" />
-      <option name="METHOD_NAME" value="colorTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicLoadingPageElements1Test.elements1Test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="synchronization_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="synchronization_tests" />
-      <option name="MAIN_CLASS_NAME" value="synchronization_tests.DynamicLoadingPageElements1Test" />
-      <option name="METHOD_NAME" value="elements1Test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicallyLoadedPageElements5Test.elements5" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="synchronization_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="synchronization_tests" />
-      <option name="MAIN_CLASS_NAME" value="synchronization_tests.DynamicallyLoadedPageElements5Test" />
-      <option name="METHOD_NAME" value="elements5" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.test.type">
     <configuration name="HoverTestDragAndDrop.dragAndDrop" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <extension name="coverage">
@@ -147,13 +76,85 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test.jsex" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JSExecuter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JSExecuter" />
+      <option name="MAIN_CLASS_NAME" value="JSExecuter.test" />
+      <option name="METHOD_NAME" value="jsex" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.scroll" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JSExecuter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JSExecuter" />
+      <option name="MAIN_CLASS_NAME" value="JSExecuter.test" />
+      <option name="METHOD_NAME" value="scroll" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.scrollToTheElement" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JSExecuter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JSExecuter" />
+      <option name="MAIN_CLASS_NAME" value="JSExecuter.test" />
+      <option name="METHOD_NAME" value="scrollToTheElement" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.type" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JSExecuter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JSExecuter" />
+      <option name="MAIN_CLASS_NAME" value="JSExecuter.test" />
+      <option name="METHOD_NAME" value="type" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.test.type" />
+        <item itemvalue="TestNG.test.scrollToTheElement" />
+        <item itemvalue="TestNG.test.scroll" />
+        <item itemvalue="TestNG.test.jsex" />
         <item itemvalue="TestNG.HoverTestDragAndDrop.dragAndDrop" />
-        <item itemvalue="TestNG.ContextRightClick.clickAlert" />
-        <item itemvalue="TestNG.DoubleClickChangingColor.colorTest" />
-        <item itemvalue="TestNG.DynamicallyLoadedPageElements5Test.elements5" />
-        <item itemvalue="TestNG.DynamicLoadingPageElements1Test.elements1Test" />
       </list>
     </recent_temporary>
   </component>
